@@ -1,6 +1,3 @@
-# AI-Interview-Digital-Solutions-MMC
-<img src = "Logo.png">
-
 <table>
   <tr>
     <td><img src="Logo.png" alt="Logo" width = "700px"></td>

@@ -1,1 +1,1 @@
-# AI---Interview---Digital-Solutions-MMC
+# AI-Interview-Digital-Solutions-MMC
